@@ -1,12 +1,8 @@
 # --- IMPRIMINDO NO TERMINAL UM RANGE ATÉ O 100 ---
-
 for x in range(90, 100):
     print(x)
 
-
-
 # --- IDENTIFICANDO NO TERMINAL SE UM NÚMERO É PRIMOO ATRAVÉS DO IMPUT DO USER ---
-
 a = int(input('Entre com um número: '))
 
 div = 0
@@ -23,7 +19,6 @@ else:
 
 
 # --- IMPRIMINDO OS NUMEROS PRIMOS NO INTERVALO DE 0 A 100 ---
-
 for num in range(101):
     div = 0
     for x in range(1, num+1):
@@ -53,12 +48,11 @@ while a <= 10:
     print(a)
     a += 1
 
---- INSERINDO COM UMA NOTA CORRETA ---
+#--- INSERINDO COM UMA NOTA CORRETA ---
 nota = int(input('Entre com a nota: '))
 while nota > 10:
     nota = int(input('Nota inválida. Entrar com outra nota: '))
 print(nota)
-
 
 #-- IDENTIFICANDO UMA NOTA DO ALUNO DIGITADA ERRADA NO SISTEMA --
 a = int(input('Nota do primeiro bimestre: '))

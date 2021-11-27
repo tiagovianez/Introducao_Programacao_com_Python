@@ -1,5 +1,4 @@
 # --- CRIANDO UM CÓDIGO EM PYTHON QUE FUNCIONE DE ACORDO COM A RELACAO DAS VARIÁVEIS ---
-#
 a = int(input('Inserir o primeiro número: '))
 b = int(input('Inserir o segundo número: '))
 c = int(input('Inserir o terceiro número: '))
@@ -12,7 +11,6 @@ else:
     print('O maior número é: {}'.format(c))
 
 # --- IDENTIFICANDO SE UM NÚMERO É PAR OU ÍMPAR ---
-
 a = int(input('Entre com um valor: '))
 b = int(input('Entre com um valor: '))
 
@@ -36,7 +34,6 @@ else:
     print('Nenhum número par foi digitado')
 
 #-- RODANDO A MÉDIA DE UM ALUNO --
-
 a = int(input('Nota do Primeiro bimestre: '))
 b = int(input('Nota do Segundo bimestre: '))
 c = int(input('Nota do Terceiro bimestre: '))
