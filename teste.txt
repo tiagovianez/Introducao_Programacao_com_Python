@@ -1,11 +1,4 @@
-Data Engineer at Airbnb.
-Data Engineer at Netflix.
-Data Engineer at Meta.
-Data Engineer Analytcs at Google.
-
-
-
-
-Me chamo Tiago, sou Engenheiro de Dados Jr aqui na Empresa XXX a 1 ano.
-Tenho 29 anos, sou graduado em Ciências Contábeis na UFBA e atualmente estou fazendo MBA em Engenharia de Dados na FIAP.
-Minha intenção após o MBA realizar um intercâmbio para Boston e assim conseguir um JOB nos USA.
+Tiago: 8, 10, 9, 10
+Hugo : 10, 5, 8, 9
+Henrique: 9, 8, 5, 8
+Gustavo: 5, 8, 8, 7
