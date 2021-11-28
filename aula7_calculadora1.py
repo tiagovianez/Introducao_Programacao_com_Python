@@ -16,10 +16,10 @@ class Calculadora:
     def divisao (g, h):
         return g / h
 
-    print('soma: {}'.format(soma(8, 10)))
-    print('subtracao: {}'.format(subtracao(45, 40)))
-    print('multiplacao: {}'.format(multiplicacao(5, 5)))
-    print('divisao: {}'.format(divisao(80, 10)))
+    print('soma: {}'.format(soma(8, 11)))
+    print('subtracao: {}'.format(subtracao(45, 41)))
+    print('multiplacao: {}'.format(multiplicacao(5, 6)))
+    print('divisao: {}'.format(divisao(80, 13)))
 
 calculadora = Calculadora(10, 5)
 print(calculadora.valor_b)
