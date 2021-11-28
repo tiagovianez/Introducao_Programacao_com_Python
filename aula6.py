@@ -32,8 +32,8 @@ print('Diferença simétrica: {}'.format(conjunto_diff_simetrica))
 
 
 # --- INDENTIFICANDO SE É UM SUBCONJUNTO OU NÃO ---
-conjunto_a = {1, 2, 3}
-conjunto_b = {1, 2, 3, 4, 5}
+conjunto_a = {1, 2, 3, 7}
+conjunto_b = {1, 2, 3, 4, 5, 7}
 conjunto_subset = conjunto_a.issubset(conjunto_b)
 print('A é um subconjunto de B: {}'. format(conjunto_subset))
 
