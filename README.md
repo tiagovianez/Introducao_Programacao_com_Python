@@ -2,7 +2,7 @@
 
 
 
-### Neste curso os conteúdos abordados foram ::computer: :
+### Neste curso os conteúdos abordados foram :computer: :
 
 
 
