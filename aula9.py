@@ -1,4 +1,5 @@
 import shutil
+
 def escrever_arquivo(texto):
     arquivo = open('teste.txt', 'w')
     arquivo.write(texto)
@@ -47,7 +48,7 @@ if __name__ == '__main__':
     #                  'Data Engineer at Netflix.\n'
     #                  'Data Engineer at Meta.\n'
     #                  'Data Engineer Analytcs at Google.\n')
-
+    #
     # atualizar_arquivo('\nData Engineer at QuantumBlack.\n')
     # aluno = 'Cesar, 10, 8, 7, 9\n' \
     #         'Tiago, 8, 8, 9, 7\n' \
