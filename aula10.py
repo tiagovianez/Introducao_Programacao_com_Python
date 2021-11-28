@@ -1,4 +1,4 @@
-# --- IMPORTANDO O MÓDULO DA FUNÇÃO DATETIME ---
+# --- IMPORTANDO OS MÓDULOS: DATETIME, TIMEDELTA, DATE E TIME ---
 from datetime import date, time, datetime, timedelta
 
 def trabalhando_com_datetime():
