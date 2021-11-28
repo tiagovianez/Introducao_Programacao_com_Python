@@ -1,4 +1,4 @@
-# --- FORÇANDO UM ERRO ---
+#--- FORÇANDO UM ERRO ---
 lista = [1, 10]
 try:
     arquivo = open('teste.txt', 'r')
