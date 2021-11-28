@@ -4,6 +4,7 @@ lista = [1, 5, 9, 13]
 lista_animal = ['cat', 'dog', 'elephant', 'parrot']
 print(lista_animal[3])
 
+
 # -- PERCORRENDO UMA LISTA USANDO O LAÇO DE REPETIÇÃO ---
 lista = [1, 5, 9, 13]
 lista_animal = ['cat', 'dog', 'elephant', 'parrot']
@@ -11,15 +12,17 @@ lista_animal = ['cat', 'dog', 'elephant', 'parrot']
 for x in lista_animal:
     print(x)
 
+
 # -- USANDO UMA SOMA DENTRO DE UMA LISTA ---
 lista = [1, 5, 9, 13]
 lista_animal = ['cat', 'dog', 'elephant', 'parrot']
-
 print(sum(lista))
+
 
 # -- BUSCANDO O VALOR MÁXIMO DESSA LISTA ---
 lista = [13, 7, 205, 107]
 lista_animal = ['cat', 'dog', 'elephant', 'parrot']
+
 
 # --- MULTIPLICANDO OS CARACTERES DE UMA LISTA ---
 nova_lista = lista * 3
@@ -30,6 +33,7 @@ if 'wolf' in lista_animal:
 else:
     print('Não existe um wolf na lista')
 
+
 # --- INCLUINDO NOVOS REGISTROS A LISTA (APPEND)---
 lista_animal = ['cat', 'dog', 'parrot', 'elephant']
 if 'butterfly' in lista_animal:
@@ -39,13 +43,16 @@ else:
     lista_animal.append('butterfly')
     print(lista_animal)
 
+
 # --- REMOVENDO CARACTERES DE UMA LISTA ---
 lista_animal.pop(0)
 print(lista_animal)
 
+
 # --- REMOVENDO CARACTERES DE UMA LISTA ATRAVÉS DO NOME ---
 lista_animal.remove('parrot')
 print(lista_animal)
+
 
 # --- ORDENANDO UMA LISTA POR ORDEM NUMERICA E ALFABETICA---
 lista = [8, 75, 2, 94]
@@ -54,6 +61,7 @@ lista.sort()
 lista_animal.sort()
 print(lista)
 print(lista_animal)
+
 
 # --- REVERTENDO A LISTA ---
 lista_animal.reverse()
@@ -66,9 +74,11 @@ lista_animal = ['cat', 'dog', 'parrot', 'elephant', 'arara']
 lista_animal [0] = 'monkey'
 print(lista_animal)
 
+
 # --- CONTANDO QUANTOS ELEMENTOS ESTÃO EM UM TUPLA ---
 tupla = (4, 15, 18, 65, 78, 744)
 print(len(tupla))
+
 
 # --- CONVERTENDO UMA LISTA EM UMA TUPLA ---
 tupla_animal = tuple(lista_animal)
