@@ -16,7 +16,7 @@ def retorna_dados_pokemon(pokemon):
     dados_pokemon = response.json()
     return  dados_pokemon
 
-#--- FAZENDO LEITURA DE PÁGINAS PELO PYTHON ---
+#--- FAZENDO LEITURA DE PÁGINAS ---
 def retorna_response(url):
     response = requests.get(url)
     return response.text
