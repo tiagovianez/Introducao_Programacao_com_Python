@@ -1,6 +1,6 @@
 # --- CONTANDO LETRAS DE CADA PALAVRA DE UMA LISTA ---
 def contador_letras(lista_palavras):
-    #determinando uma lista
+    #Determinando uma lista
     contador = []
     for x in lista_palavras:
         #Irá devolver uma lista com o total de letras por posição
