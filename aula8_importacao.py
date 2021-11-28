@@ -25,6 +25,7 @@ print(calculadora.subtracao())
 lista =['papagaio', 'gato', 'cachorro', 'cegonha']
 print(contador_letras(lista))
 
+
 # --- TESTE ---
 print(teste())
 
