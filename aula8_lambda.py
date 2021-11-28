@@ -9,10 +9,10 @@ subtracao = lambda a, b: a - b
 multiplicacao = lambda a, b: a * b
 divisao = lambda a, b: a / b
 
-print(soma(80, 100))
-print(subtracao(100, 20))
-print(multiplicacao(5, 5))
-print(divisao(60, 10))
+print(soma(80, 200))
+print(subtracao(300, 20))
+print(multiplicacao(5, 8))
+print(divisao(60, 6))
 
 
 # --- CRIANDO UMA CALCULADORA | DICIONÁRIO ---
