@@ -2,7 +2,7 @@
 
 
 
-### Neste curso os conteúdos abordados foram :nerd_face::computer: :
+### Neste curso os conteúdos abordados foram ::computer: :
 
 
 
