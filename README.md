@@ -2,7 +2,7 @@
 
 
 
-### Neste curso os conteúdos abordados foram 💻 🚀 :
+### Neste curso os conteúdos abordados foram <img align="center" alt="Tiago-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> :
 
 
 
